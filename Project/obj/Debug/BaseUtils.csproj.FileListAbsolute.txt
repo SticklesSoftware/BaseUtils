@@ -1,0 +1,7 @@
+C:\Development\Shared Components\BaseUtils\BaseUtils\bin\Debug\BaseUtils.dll
+C:\Development\Shared Components\BaseUtils\BaseUtils\bin\Debug\BaseUtils.pdb
+C:\Development\Shared Components\BaseUtils\BaseUtils\obj\Debug\BaseUtils.Properties.Resources.resources
+C:\Development\Shared Components\BaseUtils\BaseUtils\obj\Debug\BaseUtils.csproj.GenerateResource.cache
+C:\Development\Shared Components\BaseUtils\BaseUtils\obj\Debug\BaseUtils.csproj.CoreCompileInputs.cache
+C:\Development\Shared Components\BaseUtils\BaseUtils\obj\Debug\BaseUtils.dll
+C:\Development\Shared Components\BaseUtils\BaseUtils\obj\Debug\BaseUtils.pdb
